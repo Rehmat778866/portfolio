@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 
 const Hero = () => {
   return (
-    <div id="hero" className='min-h-screen bg-no-repeat bg-[url(/banner.jpg.png)] bg-cover'
+    <div id="hero" className='min-h-screen bg-no-repeat bg-[url(/portfolio.jpeg)] bg-cover'
       style={{ backgroundSize: "35%", backgroundPosition: "left 100px top 100px" }}
     >
       <Navbar />
@@ -12,8 +12,8 @@ const Hero = () => {
         <div className='text-[80px] sim:text-[100px] font-bold leading-tight flex justify-center items-center text-center'>
           <div>
             <p data-aos="zoom-in-up">I&apos;m</p>
-            <p data-aos="zoom-in-up">Kinza</p>
-            <p data-aos="zoom-in-up">Khan</p>
+            <p data-aos="zoom-in-up">Rehmat</p>
+            <p data-aos="zoom-in-up">Khalid</p>
           </div>
         </div>
       </div>

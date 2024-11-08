@@ -11,14 +11,14 @@ const Skills = () => {
                 </p>
             </div>
             <div>
-              <div className='grid grid-cols-2 text-accent text-3xl sm:text-4xl'>
+              <div className='grid grid-cols-2 text-orange-500 text-3xl sm:text-4xl'>
                 <div className='space-y-2'>
                   <h2 data-aos="zoom-in-up" >TypeScript</h2>
                   <h2 data-aos="zoom-in-up">React.Js</h2>
                   <h2 data-aos="zoom-in-up" >Next.Js</h2>
                 </div>
                 <div className='space-y-2'>
-                  <h2 data-aos="zoom-in-up" >Tilwind</h2>
+                  <h2 data-aos="zoom-in-up" >Tailwind</h2>
                   <h2 data-aos="zoom-in-up" >CSS</h2>
                   <h2 data-aos="zoom-in-up">Node.Js</h2>
                 </div>

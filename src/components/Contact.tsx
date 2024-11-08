@@ -20,25 +20,25 @@ const Contact = () => {
             </div>
             <div className='space-y-8'>
                 <div className='flex flex-col gap-1'data-aos="zoom-in-up" >
-                    <label htmlFor="name">Nmae</label>
+                    <label htmlFor="name">Name</label>
                     <input type="text"
-                    className='h-[40px] bg-transparent border border-accent'
+                    className='h-[40px] bg-transparent border border-orange-500'
                     id='name'/>
                 </div>
                 <div className='flex flex-col gap-1' data-aos="zoom-in-up" >
-                    <label htmlFor="email">Emal</label>
+                    <label htmlFor="email">Email</label>
                     <input type="text"
-                    className='h-[40px] bg-transparent border border-accent'
+                    className='h-[40px] bg-transparent border border-orange-500'
                     id='email'/>
                 </div>
                 <div className='flex flex-col gap-1' data-aos="zoom-in-up">
                     <label htmlFor="message">Message</label>
                     <textarea 
-                    className='bg-transparent border border-accent'
+                    className='bg-transparent border border-orange-500'
                     id='message' rows={8}>
                     </textarea>
                 </div>
-                <button className='bg-accent p-2 px-10' data-aos="zoom-in-up" >Send</button>
+                <button className='bg-orange-500 p-2 px-10' data-aos="zoom-in-up" >Send</button>
             </div>
         </div>
     </div>
