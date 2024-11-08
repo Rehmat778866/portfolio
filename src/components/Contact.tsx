@@ -12,7 +12,7 @@ const Contact = () => {
                     Drop me a line, give me a call, or send me a message by submittng the  form.
                 </p>
                 <div className='flex gap-3 items-center'data-aos="zoom-in-up" >
-                <AiOutlineMail  size={30}/> xyz@gmail.com
+                <AiOutlineMail  size={30}/> rehmatkhalid11@gmail.com
                 </div>
                 <div className='flex gap-3 items-center'data-aos="zoom-in-up" >
                 <BsTelephone size={30} /> (021)00-0000
